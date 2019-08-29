@@ -1,3 +1,3 @@
 # pygames
 
-My Tetris Game using paygame Libray
+My Tetris Game using pygame Libray
